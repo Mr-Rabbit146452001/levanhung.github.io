@@ -11,10 +11,14 @@ title: CV
 - Thoi gian: 2023 - nay
 
 ## Ky nang
+
 | Ky nang | Muc do |
-|---------|--------|
+
+
 | C/C++ (Arduino) | Trung binh |
+
 | Git/GitHub | Trung binh |
+
 | Python | Co ban |
 
 ## Du an
