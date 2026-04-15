@@ -3,62 +3,29 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Hoc van
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Hoc vien Cong nghe Buu chinh Vien thong (PTIT)**
+- Nganh: Cong nghe thong tin
+- Thoi gian: 2023 - nay
+- GPA: 3.2/4.0
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Ky nang ky thuat
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+| Ky nang | Muc do | Chi tiet |
+|---------|--------|----------|
+| C/C++ (Arduino) | Trung binh | Firmware, cam bien, Serial |
+| Git/GitHub | Trung binh | Branch, merge, PR |
+| Python | Co ban | matplotlib, pandas |
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Du an
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Arduino LM35 Temperature Monitor** - Mon Mang Cam Bien
+- **GitHub Pages Portfolio** - Trang ca nhan
+
+## Ngon ngu
+
+- Tieng Viet: Ban ngu
+- Tieng Anh: Co ban
