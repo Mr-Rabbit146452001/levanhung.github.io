@@ -21,4 +21,4 @@ Toi la **Le Van Hung**, sinh vien nganh **Cong nghe thong tin** tai Hoc vien Con
 
 He thong giam sat nhiet do su dung cam bien LM35 ket noi Arduino, hien thi do thi thoi gian thuc tren PC.
 
-[Xem tren GitHub](https://github.com/levanhung/Arduino_LM35_TempMonitor)
+[Xem tren GitHub](https://github.com/Mr-Rabbit146452001/Arduino_LM35_TempMonitor)
