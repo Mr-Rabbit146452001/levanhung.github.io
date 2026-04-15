@@ -18,7 +18,6 @@ Sinh vien nganh IoT - Hoc vien Cong nghe Buu chinh Vien thong (PTIT)
 
 | Ky nang | Muc do |
 
-|---------|--------|
 
 | C/C++ (Arduino) | Trung binh |
 
