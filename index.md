@@ -24,3 +24,7 @@ Sinh vien nganh IoT - Hoc vien Cong nghe Buu chinh Vien thong (PTIT)
 | Git/GitHub | Trung binh |
 
 | Python | Co ban |
+
+## Trang
+- [Trang chu](/)
+- [CV](/cv)
