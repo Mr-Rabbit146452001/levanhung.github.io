@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+<img src="images/banner.jpg" alt="Banner" width="100%">
 
 # Lê Văn Hùng
 
