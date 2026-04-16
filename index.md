@@ -1,4 +1,5 @@
 <img src="images/banner.jpg" alt="Banner" width="100%">
+<img src="images/avatar.jpg" alt="Avatar" style="width:150px; border-radius:50%; margin-top:20px;">
 
 # Lê Văn Hùng
 
