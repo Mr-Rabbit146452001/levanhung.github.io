@@ -1,4 +1,4 @@
-![Banner](/images/banner.jpg)
+![Banner](images/banner.jpg)
 
 # Lê Văn Hùng
 
@@ -25,9 +25,11 @@ Tôi là sinh viên năm 2 ngành **Công nghệ thông tin (IoT)** tại **Họ
 ## Kỹ năng
 
 | Kỹ năng | Mức độ | Công cụ |
-|---------|--------|---------|
+
 | C/C++ (Arduino) | Trung bình | Arduino IDE |
+
 | Git / GitHub | Trung bình | Git, GitHub |
+
 | Python | Cơ bản | VS Code, Jupyter |
 
 ---
